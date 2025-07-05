@@ -1,7 +1,7 @@
 # Dasafio Sistema Bancário em Orientação a objetos
 
 ## Objetivo
-Esse desafio tem o objetivo de pegar um codigo de um sistema bancário e passa-lo para orientação a objeto, usando varios métodos e conceitos aprendidos em aula<br>
+Esse desafio tem o objetivo de pegar um codigo de um sistema bancário e passa-lo para orientação a objetos, usando métodos e conceitos aprendidos em aula<br>
 
 ## Tecnologia usada
 - Python
